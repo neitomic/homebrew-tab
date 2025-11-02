@@ -1,15 +1,15 @@
-# Neitomic Tab
+# Neitomic Tap
 
 ## How do I install these formulae?
 
-`brew install neitomic/tab/<formula>`
+`brew install neitomic/tap/<formula>`
 
-Or `brew tap neitomic/tab` and then `brew install <formula>`.
+Or `brew tap neitomic/tap` and then `brew install <formula>`.
 
 Or, in a `brew bundle` `Brewfile`:
 
 ```ruby
-tap "neitomic/tab"
+tap "neitomic/tap"
 brew "<formula>"
 ```
 
